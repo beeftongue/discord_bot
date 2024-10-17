@@ -13,7 +13,7 @@ import org.springframework.stereotype.Component;
 
 @Component
 public class DiscordBotRunner implements ApplicationRunner {
-  private static final String discordToken = "MTI5NjM1MTAwNjc5OTU2NDg0Mg.GFJqW0.CQybIS2tefB8wRtmK04V0oJuiCekiymJStOY8g";
+  private static final String discordToken = "";
 
   final DiscordBotService discordBotService;
 
